@@ -2,8 +2,27 @@ apiVersion: v1
 entries:
   orbit:
   - apiVersion: v2
+    appVersion: 2.1.1
+    created: "2026-09-06T14:26:11.414795+03:00"
+    description: Orbit — admin UI and API adapter for a Mojaloop classic switch
+    digest: d2933fa98d02064c0f866c93d3e89db11a3821ca3a865a4e11b14635f2a0c0f0
+    keywords:
+    - mojaloop
+    - payments
+    - admin
+    - settlement
+    - onboarding
+    maintainers:
+    - email: admin@wafrasystems.com
+      name: Wafra Systems
+    name: orbit
+    type: application
+    urls:
+    - https://elijah0kello.github.io/wafra-switch-charts/orbit-2.1.1.tgz
+    version: 2.1.1
+  - apiVersion: v2
     appVersion: 2.1.0
-    created: "2026-08-24T09:56:56.666277+03:00"
+    created: "2026-09-06T14:26:11.413957+03:00"
     description: Orbit — admin UI and API adapter for a Mojaloop classic switch
     digest: 4d5cf982095ebf983eca93c424d3344067a05978693a4c016528f78c31406a0c
     keywords:
@@ -22,7 +41,7 @@ entries:
     version: 2.1.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2026-08-24T09:56:56.665704+03:00"
+    created: "2026-09-06T14:26:11.413207+03:00"
     description: Orbit — admin UI and API adapter for a Mojaloop classic switch
     digest: 9f2c847b9210d9478f399fd0b7ad985d382b5def16ea13fef5c50791148be84f
     keywords:
@@ -38,4 +57,4 @@ entries:
     urls:
     - https://elijah0kello.github.io/wafra-switch-charts/orbit-2.0.0.tgz
     version: 2.0.0
-generated: "2026-08-24T09:56:56.663137+03:00"
+generated: "2026-09-06T14:26:11.411474+03:00"
